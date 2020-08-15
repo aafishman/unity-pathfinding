@@ -8,3 +8,5 @@ List<Vector3> path = AStar.FindPath(tilemap, startPos, endPos);
 ```
 
 <img src="https://raw.githubusercontent.com/antonpantev/pathfinding/master/PreviewImages/ScreenShot.png">
+
+test this out...
